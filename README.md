@@ -1,6 +1,6 @@
 # Hello<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm fatah aka cookies ! 🍪
 
-I'm currently student in network security course and my interest is to hit my goals
+##### Objective Person, always believe result speaks more powerfully than words
 
 ## About Me<img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 <a href="https://twitter.com/0xcookies">
@@ -14,9 +14,8 @@ I'm currently student in network security course and my interest is to hit my go
 
 <br />
 
-![Alt Text](https://tenor.com/view/gabriel-dropout-anime-happy-gif-8661798.gif)
+![Alt Text](https://i.pinimg.com/originals/9c/e8/b4/9ce8b42e5cface0737c16fd3eae31749.gif)
 
-If you like what I do, maybe consider buying me a coffee/tea 🥺 👉👈  ( coming soon )
 
 <a href="https://i.imgur.com/LKdRwZf.gif" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
