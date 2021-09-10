@@ -14,7 +14,7 @@
 
 <br />
 
-![Alt Text](https://i.pinimg.com/originals/9c/e8/b4/9ce8b42e5cface0737c16fd3eae31749.gif)
+![Alt Text](https://thumbs.gfycat.com/CookedHomelyArrowana-max-1mb.gif)
 
 
 <a href="https://i.imgur.com/LKdRwZf.gif" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
