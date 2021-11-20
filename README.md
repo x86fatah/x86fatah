@@ -1,1 +1,1 @@
-![](https://visitor-badge.glitch.me/badge?page_id=fatahhhh)
+<img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
