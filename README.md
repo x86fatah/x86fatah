@@ -3,7 +3,7 @@
 <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 
 
-```asm
+```ruby
 eax   : 0x26a6    
 $ebx   : 0xf7e26000  →  0x00225dac
 $ecx   : 0x31cc    
